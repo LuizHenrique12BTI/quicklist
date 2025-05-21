@@ -76,7 +76,7 @@ main {
         color: var(--content-primary);
 
         &::placeholder {
-            color: var(--content-primary);
+            color: var(--content-tertiary);
         }
 
         &:hover {
